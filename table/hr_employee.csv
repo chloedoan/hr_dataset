@@ -1,0 +1,312 @@
+EmpID,firstName,lastName,position,state,zip,correct_dob,age,sex,marital,citizen,race,hispanicLatino
+10026," Wilson  K",Adinolfi,"Production Technician I",MA,1960,1989-07-10,35,Male,Single,"US Citizen",White,No
+10084," Karthikeyan  ","Ait Sidi","Sr. DBA",MA,2148,1981-05-05,43,Male,Married,"US Citizen",White,No
+10196," Sarah",Akinkuolie,"Production Technician II",MA,1810,1994-09-19,30,Female,Married,"US Citizen",White,No
+10088,Trina,Alagbe,"Production Technician I",MA,1886,1994-09-27,30,Female,Married,"US Citizen",White,No
+10069," Carol ",Anderson,"Production Technician I",MA,2169,1995-09-08,29,Female,Divorced,"US Citizen",White,No
+10002," Linda  ",Anderson,"Production Technician I",MA,1844,1983-05-22,41,Female,Single,"US Citizen",White,No
+10194," Colby",Andreola,"Software Engineer",MA,2110,1985-05-24,39,Female,Single,"US Citizen",White,No
+10062," Sam",Athwal,"Production Technician I",MA,2199,1989-02-18,35,Male,Widowed,"US Citizen",White,No
+10114," Linda",Bachiochi,"Production Technician I",MA,1902,1976-02-11,48,Female,Single,"US Citizen","Black or African American",No
+10250," Alejandro ",Bacong,"IT Support",MA,1886,1994-01-07,30,Male,Divorced,"US Citizen",White,No
+10252," Rachael  ",Baczenski,"Production Technician I",MA,1902,1980-01-12,44,Female,Married,"US Citizen","Black or African American",Yes
+10242," Thomas",Barbara,"Production Technician I",MA,2062,1980-02-21,44,Male,Married,"US Citizen","Black or African American",Yes
+10012," Hector",Barbossa,"Data Analyst",TX,78230,1994-07-04,30,Male,Divorced,"US Citizen","Black or African American",No
+10265," Francesco  A",Barone,"Production Technician I",MA,1810,1989-07-20,35,Male,Single,"US Citizen","Two or more races",No
+10066," Nader",Barton,"Production Technician I",MA,2747,1983-07-15,41,Male,Divorced,"US Citizen",White,No
+10061," Norman",Bates,"Production Technician I",MA,2050,1987-10-18,37,Male,Single,"US Citizen",White,No
+10023," Kimberly  ",Beak,"Production Technician II",MA,2145,1972-04-17,52,Female,Married,"US Citizen",White,No
+10055," Courtney ",Beatrice,"Production Technician I",MA,1915,1976-10-27,48,Female,Single,"Eligible NonCitizen",White,No
+10245," Renee",Becker,"Database Administrator",MA,2026,1992-04-04,32,Female,Single,"US Citizen",White,Yes
+10277," Scott",Becker,"Production Technician I",MA,2452,1985-04-06,39,Male,Single,"US Citizen",Asian,No
+10046," Sean",Bernstein,"Production Technician I",MA,2072,1976-12-22,48,Male,Single,"US Citizen",White,Yes
+10226," Lowan  M",Biden,"Production Technician I",MA,2027,1964-12-27,60,Female,Divorced,"US Citizen",Asian,No
+10003," Helen",Billis,"Production Technician I",MA,2031,1995-09-01,29,Female,Married,"US Citizen",White,No
+10294," Dianna",Blount,"Production Technician II",MA,2171,1996-09-21,28,Female,Single,"US Citizen",White,No
+10267," Betsy",Bondwell,"Production Technician II",MA,2210,1973-01-16,51,Female,Single,"US Citizen",White,No
+10199," Frank",Booth,"Enterprise Architect",CT,6033,1970-07-30,54,Male,Single,"US Citizen","Black or African American",No
+10081," Bonalyn",Boutwell,"Sr. Accountant",MA,2468,1993-04-04,31,Female,Married,"US Citizen","Black or African American",No
+10175," Charles",Bozzi,"Production Manager",MA,1901,1976-03-10,48,Male,Single,"US Citizen",Asian,No
+10177," Donna",Brill,"Production Technician I",MA,1701,1996-08-24,28,Female,Married,"US Citizen",White,No
+10238," Mia",Brown,"Accountant I",MA,1450,1993-11-24,31,Female,Married,"US Citizen","Black or African American",No
+10184," Joseph  ",Buccheri,"Production Technician II",MA,1013,1989-07-28,35,Male,Single,"US Citizen",White,No
+10203," Josephine ",Bugali,"Production Technician I",MA,2043,1975-10-30,49,Female,Separated,"US Citizen","Black or African American",No
+10188," Jessica",Bunbury,"Area Sales Manager",VA,21851,1970-06-01,54,Female,Married,"Eligible NonCitizen","Black or African American",No
+10107," Joelle",Burke,"Production Technician II",MA,2148,1986-03-02,38,Female,Single,"US Citizen","Black or African American",No
+10181," Benjamin ",Burkett,"Production Technician II",MA,1890,1983-08-19,41,Male,Married,"US Citizen",White,No
+10150," Max ",Cady,"Software Engineering Manager",MA,2184,1972-11-22,52,Male,Single,"US Citizen",White,No
+10001," Calvin",Candie,"Production Manager",MA,2169,1989-08-09,35,Male,Single,"US Citizen",White,No
+10085," Judith",Carabbio,"Software Engineer",MA,2132,1993-04-05,31,Female,Single,"US Citizen",White,No
+10115," Michael  ",Carey,"Production Technician I",MA,1701,1989-02-02,35,Male,Single,"US Citizen","Black or African American",No
+10082," Claudia  N",Carr,"Sr. DBA",MA,1886,1992-06-06,32,Female,Single,"US Citizen","Black or African American",No
+10040," Michelle ",Carter,"Area Sales Manager",VT,5664,1969-05-15,55,Female,Single,"US Citizen",White,No
+10067," Beatrice ",Chace,"Production Technician I",MA,2763,1957-01-02,67,Female,Single,"US Citizen",White,No
+10108," Brian",Champaigne,"BI Director",MA,2045,1978-02-09,46,Male,Married,"US Citizen",White,No
+10210," Lin",Chan,"Production Technician I",MA,2170,1985-02-12,39,Female,Single,"US Citizen",White,No
+10154," Donovan  E",Chang,"Production Technician I",MA,1845,1989-08-24,35,Male,Single,"US Citizen",White,No
+10200," Anton",Chigurh,"Area Sales Manager",TX,78207,1976-06-11,48,Male,Single,"Eligible NonCitizen","Black or African American",No
+10240," Enola",Chivukula,"Production Technician I",MA,1775,1989-08-27,35,Female,Single,"US Citizen",White,No
+10168," Caroline",Cierpiszewski,"Production Technician I",MA,2044,1994-05-31,30,Female,Single,Non-Citizen,"Black or African American",No
+10220," Rick",Clayton,"IT Support",MA,2170,1991-09-05,33,Male,Single,"US Citizen",White,No
+10275," Jennifer",Cloninger,"Production Technician II",MA,1752,1987-08-31,37,Female,Married,"US Citizen",White,No
+10269," Phil",Close,"Production Technician II",MA,2169,1984-11-25,40,Male,Married,"US Citizen",White,No
+10029," Elijian",Clukey,"Production Technician I",MA,2134,1986-08-26,38,Male,Married,"US Citizen",White,No
+10261," James",Cockel,"Production Technician I",MA,2452,1983-09-08,41,Male,Single,"US Citizen",White,No
+10292," Spencer",Cole,"Production Technician I",MA,1880,1985-08-12,39,Male,Single,"US Citizen","Black or African American",No
+10282," Michael",Corleone,"Production Manager",MA,1803,1981-12-17,43,Male,Divorced,"US Citizen",White,No
+10019," Vito",Corleone,"Director of Operations",MA,2030,1989-03-19,35,Male,Single,"US Citizen","Black or African American",No
+10094," Lisa ",Cornett,"Production Technician I",MA,2189,1983-03-31,41,Female,Married,"US Citizen",White,Yes
+10193," Frank",Costello,"Data Analyst",MA,1810,1992-08-26,32,Male,Married,"US Citizen",White,No
+10132,"   Jean",Crimmings,"Production Technician I",MA,1821,1993-04-10,31,Female,Single,"US Citizen",White,No
+10083," Noah",Cross,"Sr. Network Engineer",CT,6278,1971-09-09,53,Male,Single,"US Citizen",White,No
+10099," Lynn",Daneault,"Sales Manager",VT,5473,1996-04-19,28,Female,Single,"US Citizen",White,No
+10212," Ann  ",Daniele,"Sr. Network Engineer",CT,6033,1958-01-18,66,Female,Married,"US Citizen",White,No
+10056," Jene'ya ",Darson,"Production Technician I",MA,2110,1984-11-05,40,Female,Married,"US Citizen",White,No
+10143," Daniel",Davis,"Production Technician II",MA,2458,1985-09-14,39,Male,Single,"Eligible NonCitizen","Two or more races",No
+10311," Randy",Dee,"Production Technician I",MA,2138,1994-04-15,30,Male,Married,"US Citizen",White,No
+10070,"  James",DeGweck,"Production Technician I",MA,1810,1983-10-31,41,Male,Married,"US Citizen",White,No
+10155," Keyla","Del Bosque","Software Engineer",MA,2176,1985-07-05,39,Female,Single,"US Citizen","Black or African American",No
+10306," Alex",Delarge,"Area Sales Manager",AL,36006,1981-11-02,43,Male,Single,"US Citizen","Two or more races",No
+10100," Carla",Demita,"Production Technician II",MA,2343,1957-02-25,67,Female,Separated,"US Citizen","Black or African American",No
+10310," Carl ",Desimone,"Production Technician I",MA,2061,1973-04-19,51,Male,Married,"US Citizen",White,No
+10197," Tommy",DeVito,"BI Developer",MA,2045,1989-09-04,35,Male,Single,"US Citizen",White,No
+10276," Geoff ",Dickinson,"Production Technician I",MA,2180,1988-11-15,36,Male,Single,"US Citizen",White,No
+10304," Jenna  ",Dietrich,"Area Sales Manager",WA,98052,1993-05-14,31,Female,Single,"US Citizen",White,Yes
+10284," Lily ",DiNocco,"Production Technician I",MA,2351,1984-12-02,40,Female,Married,"US Citizen","Black or African American",No
+10207," Denisa  S",Dobrin,"Production Technician I",MA,2125,1992-10-07,32,Female,Single,"US Citizen",White,Yes
+10133," Linda",Dolan,"IT Support",MA,2119,1994-07-18,30,Female,Married,"US Citizen",White,No
+10028," Eric",Dougall,"IT Manager - Support",MA,1886,1976-07-09,48,Male,Single,"US Citizen","Black or African American",No
+10006," Elle",Driver,"Area Sales Manager",CA,90007,1994-11-08,30,Female,Single,"US Citizen",White,No
+10105," Amy  ",Dunn,"Production Manager",MA,1731,1979-11-28,45,Female,Single,"US Citizen",White,No
+10211," Amy",Dunne,"Production Technician I",MA,1749,1979-09-23,45,Female,Married,"US Citizen",White,No
+10064," Marianne",Eaton,"Production Technician I",MA,2343,1997-09-05,27,Female,Married,"US Citizen",White,No
+10247," Jean",Engdahl,"Production Technician I",MA,2026,1980-05-31,44,Male,Single,"US Citizen",White,No
+10235," Rex",England,"Production Technician I",MA,2045,1984-08-25,40,Male,Married,"US Citizen",White,No
+10299," Angela",Erilus,"Production Technician II",MA,2133,1995-08-25,29,Female,Separated,"US Citizen",White,No
+10280," Miguel",Estremera,"Production Technician I",MA,2129,1989-09-02,35,Male,Single,"US Citizen",White,No
+10296," April",Evensen,"Production Technician I",MA,2458,1995-05-06,29,Female,Single,"US Citizen",White,No
+10290," Susan",Exantus,"Software Engineer",MA,1749,1993-05-15,31,Female,Married,"US Citizen","Black or African American",No
+10263," Megan ",Faller,"Production Technician II",MA,1824,1984-09-22,40,Female,Married,"US Citizen","Black or African American",No
+10136," Nicole",Fancett,"Production Technician II",MA,2324,1993-09-27,31,Female,Single,"US Citizen","Black or African American",No
+10189," Susan",Ferguson,"Production Technician I",MA,2176,1961-04-14,63,Female,Married,"US Citizen",White,No
+10308," Nilson  ",Fernandes,"Production Technician I",MA,2132,1995-10-18,29,Male,Married,"US Citizen",White,No
+10309," Boba",Fett,"Network Engineer",MA,2138,1993-06-18,31,Male,Single,"US Citizen",White,No
+10049,"  Libby",Fidelia,"Production Technician I",MA,2155,1987-03-16,37,Female,Married,"US Citizen",White,No
+10093," Michael  J",Fitzpatrick,"Production Technician II",MA,2143,1987-10-01,37,Male,Single,"US Citizen",White,Yes
+10163," Tanya",Foreman,"Production Technician II",MA,2170,1989-11-08,35,Female,Married,"US Citizen",White,No
+10305," Alex",Forrest,"Area Sales Manager",MA,2330,1981-07-07,43,Male,Married,"US Citizen",White,No
+10015," Jason",Foss,"IT Director",MA,1460,1986-07-05,38,Male,Single,"US Citizen","Black or African American",No
+10080," Amy",Foster-Baker,"Sr. Accountant",MA,2050,1985-04-16,39,Female,Married,"US Citizen",White,no
+10258," Maruk ",Fraval,"Area Sales Manager",CT,6050,1969-08-28,55,Male,Single,"US Citizen","Black or African American",No
+10273," Lisa",Galia,"IT Support",CT,6040,1974-07-06,50,Female,Single,"US Citizen",White,No
+10111," Raul",Garcia,"Production Technician I",MA,1905,1991-09-15,33,Male,Single,"US Citizen",White,Yes
+10257," Barbara",Gaul,"Production Technician I",MA,2121,1989-12-02,35,Female,Single,"US Citizen","Black or African American",Yes
+10159," Mildred",Gentry,"Production Technician I",MA,2145,1996-10-01,28,Female,Married,"US Citizen","Black or African American",No
+10122," Melisa",Gerke,"Production Technician I",MA,2330,1976-05-15,48,Female,Divorced,"US Citizen","Black or African American",No
+10142," Whitney  ",Gill,"Area Sales Manager",OH,43050,1977-07-10,47,Female,Widowed,"US Citizen","Black or African American",No
+10283," Alex",Gilles,"Production Technician I",MA,2062,1980-08-09,44,Male,Married,"US Citizen","Black or African American",No
+10018," Evelyn",Girifalco,"Production Technician I",MA,2451,1986-05-08,38,Female,Single,"US Citizen","Two or more races",Yes
+10255," Myriam",Givens,"Area Sales Manager",IN,46204,1995-09-22,29,Female,Single,"US Citizen",White,No
+10246," Taisha",Goble,"Database Administrator",MA,2127,1977-10-23,47,Female,Single,"US Citizen",White,No
+10228," Amon",Goeth,"IT Support",MA,2135,1995-11-24,29,Male,Married,"US Citizen",White,Yes
+10243," Shenice  ",Gold,"Production Technician I",MA,2451,1998-06-18,26,Female,Single,"US Citizen",White,Yes
+10031," Cayo",Gonzalez,"Production Technician I",MA,2108,1975-09-29,49,Male,Divorced,"US Citizen","Black or African American",No
+10300," Juan",Gonzalez,"Production Technician II",MA,2128,1970-10-12,54,Male,Married,"US Citizen","Black or African American",No
+10101," Maria",Gonzalez,"IT Support",MA,2472,1987-04-16,37,Female,Separated,"US Citizen",White,Yes
+10237," Susan",Good,"Production Technician II",MA,1886,1992-05-25,32,Female,Married,"US Citizen",White,No
+10051," David",Gordon,"Production Technician I",MA,2169,1985-05-21,39,Male,Married,"US Citizen",White,No
+10218," Phylicia  ",Gosciminski,"Production Technician II",MA,1824,1989-12-08,35,Female,Separated,"US Citizen","American Indian or Alaska Native",No
+10256," Roxana",Goyal,"Production Technician I",MA,1864,1980-10-09,44,Female,Married,"US Citizen",Asian,No
+10098," Elijiah  ",Gray,"Production Manager",MA,1752,1987-07-11,37,Male,Divorced,"US Citizen",White,No
+10059," Paula",Gross,"Production Technician I",MA,2176,1989-05-21,35,Female,Divorced,"US Citizen",White,No
+10234," Hans",Gruber,"BI Developer",MA,2134,1995-06-30,29,Male,Married,"US Citizen","Black or African American",No
+10109," Mike",Guilianno,"Area Sales Manager",TN,37129,1975-02-09,49,Male,Single,"US Citizen","Two or more races",No
+10125," Joanne",Handschiegl,"Production Technician I",MA,2127,1983-03-23,41,Female,Married,"US Citizen",White,No
+10074," Earnest",Hankard,"Production Technician II",MA,2155,1994-08-10,30,Male,Single,"US Citizen",White,Yes
+10097," Christie ",Harrington,"Production Technician I",MA,2324,1958-08-18,66,Female,Single,"US Citizen",White,No
+10007," Kara",Harrison,"Production Technician I",MA,1886,1980-05-02,44,Female,Married,"US Citizen",White,No
+10129," Anthony",Heitzman,"Production Technician I",MA,2149,1990-01-04,34,Male,Single,"US Citizen",White,No
+10075," Trina",Hendrickson,"Production Technician II",MA,2021,1978-08-27,46,Female,Single,"US Citizen",White,No
+10167," Alfred",Hitchcock,"Area Sales Manager",NH,3062,1994-09-14,30,Male,Married,"US Citizen","American Indian or Alaska Native",No
+10195," Adrienne  J",Homberger,"Production Technician II",MA,2445,1990-02-16,34,Female,Married,Non-Citizen,White,No
+10112," Jayne",Horton,"Database Administrator",MA,2493,1990-02-21,34,Female,Single,"US Citizen",White,No
+10272," Debra",Houlihan,"Director of Sales",RI,2908,1972-03-17,52,Female,Married,"US Citizen",White,No
+10182," Estelle",Howard,"Administrative Assistant",MA,2170,1991-09-16,33,Female,Married,"US Citizen","Black or African American",No
+10248," Jane",Hudson,"Production Technician I",MA,2176,1992-06-10,32,Female,Single,"US Citizen",White,No
+10201," Julissa",Hunts,"Production Technician II",MA,2021,1990-03-11,34,Female,Single,"US Citizen",White,No
+10214," Rosalie",Hutter,"Production Technician II",MA,2351,1998-05-07,26,Female,Separated,"US Citizen",White,No
+10160," Ming",Huynh,"Production Technician II",MA,1742,1982-09-22,42,Female,Divorced,"US Citizen",White,No
+10289," Walter",Immediato,"Production Manager",MA,2128,1982-11-15,42,Male,Married,"US Citizen",Asian,No
+10139," Rose ",Ivey,"Production Technician I",MA,1775,1997-01-28,27,Female,Single,"US Citizen",White,No
+10227," Maryellen",Jackson,"Production Technician I",MA,2081,1978-09-11,46,Female,Single,"US Citizen","Black or African American",No
+10236," Hannah  ",Jacobi,"Production Technician I",MA,1778,1972-03-22,52,Female,Divorced,"US Citizen",White,No
+10009," Tayana",Jeannite,"Production Technician II",MA,1821,1992-11-06,32,Female,Divorced,"US Citizen","American Indian or Alaska Native",No
+10060," Sneha  ",Jhaveri,"Production Technician I",MA,2109,1970-04-13,54,Female,Separated,"US Citizen",White,No
+10034," George",Johnson,"Production Technician I",MA,2445,1965-08-19,59,Male,Married,"US Citizen",White,No
+10156," Noelle ",Johnson,"Database Administrator",MA,2301,1992-11-07,32,Female,Married,"US Citizen",Asian,No
+10036," Yen",Johnston,"Production Technician II",MA,2128,1975-09-08,49,Female,Single,"US Citizen",White,No
+10138," Judy  ",Jung,"Production Technician I",MA,2446,1992-04-17,32,Female,Married,"US Citizen","Black or African American",No
+10244," Donysha",Kampew,"Sales Manager",PA,19444,1995-11-11,29,Female,Single,"US Citizen",White,No
+10192," Kramer ",Keatts,"Production Technician I",MA,1887,1982-01-19,42,Male,Single,"US Citizen",White,No
+10231," Bartholemew",Khemmich,"Area Sales Manager",CO,80820,1985-11-27,39,Male,Single,"US Citizen",White,No
+10089," Janet",King,"President & CEO",MA,1902,1960-09-21,64,Female,Married,"US Citizen",White,Yes
+10166," Kathleen  ",Kinsella,"Production Technician I",MA,2170,1979-12-08,45,Female,Married,"US Citizen",White,No
+10170," Alexandra  ",Kirill,"Production Technician I",MA,2127,1976-10-08,48,Female,Married,"US Citizen",White,No
+10208," Bradley  J",Knapp,"Production Technician I",MA,1721,1983-11-10,41,Male,Single,"US Citizen","Black or African American",No
+10176," John",Kretschmer,"Production Technician I",MA,1801,1986-02-02,38,Male,Married,"US Citizen",Asian,No
+10165," Freddy",Kreuger,"Area Sales Manager",NY,10171,1975-02-24,49,Male,Single,"US Citizen","Black or African American",Yes
+10113,"  Jyoti",Lajiri,"Sr. Network Engineer",MA,2169,1992-04-23,32,Male,Married,"US Citizen",White,No
+10092," Hans",Landa,"Production Manager",MA,1890,1978-07-01,46,Male,Married,"US Citizen",White,No
+10106," Lindsey",Langford,"Production Technician II",MA,2090,1985-07-25,39,Female,Divorced,"US Citizen",Asian,No
+10052," Enrico",Langton,"Production Technician I",MA,2048,1992-12-09,32,Male,Married,"US Citizen",White,No
+10038," William  ",LaRotonda,"Accountant I",MA,1460,1990-04-26,34,Male,Divorced,"US Citizen","Black or African American",No
+10249," Mohammed",Latif,"Production Technician II",MA,2126,1990-05-09,34,Male,Married,"US Citizen",White,No
+10232," Binh",Le,"Senior BI Developer",MA,1886,1993-06-14,31,Female,Single,"US Citizen",Asian,No
+10087," Dallas",Leach,"Production Technician I",MA,1810,1985-01-17,39,Female,Single,"US Citizen",Asian,No
+10134," Brandon  R",LeBlanc,"Shared Services Manager",MA,1460,1990-06-10,34,Male,Married,"US Citizen",White,No
+10251," Hannibal",Lecter,"Production Technician I",MA,1776,1988-09-02,36,Male,Married,"US Citizen",Asian,No
+10103," Giovanni",Leruth,"Area Sales Manager",UT,84111,1994-12-27,30,Male,Separated,"US Citizen","Black or African American",No
+10017," Ketsia",Liebig,"Production Manager",MA,2110,1987-10-26,37,Female,Married,"US Citizen",White,No
+10186," Marilyn ",Linares,"Production Technician I",MA,1886,1987-03-26,37,Female,Married,"US Citizen",White,No
+10137," Mathew",Linden,"Production Technician II",MA,1770,1985-03-19,39,Male,Married,"US Citizen",White,No
+10008," Leonara ",Lindsay,"IT Support",CT,6070,1994-10-05,30,Female,Single,"US Citizen","Black or African American",Yes
+10096," Susan",Lundy,"Production Technician II",MA,2122,1982-12-26,42,Female,Widowed,"US Citizen",White,No
+10035," Lisa",Lunquist,"Production Technician II",MA,2324,1988-03-28,36,Female,Single,"US Citizen","Black or African American",No
+10057," Allison",Lydon,"Production Technician I",MA,2122,1981-10-22,43,Female,Married,"US Citizen","Black or African American",No
+10004," Lindsay",Lynch,"Production Technician I",MA,1844,1979-02-14,45,Female,Single,"US Citizen","Black or African American",Yes
+10191," Samuel",MacLennan,"Production Technician I",MA,1938,1978-11-09,46,Male,Widowed,"US Citizen",White,No
+10219," Lauren  ",Mahoney,"Production Technician I",MA,2189,1992-07-07,32,Female,Single,"US Citizen",White,No
+10077," Robyn",Manchester,"Production Technician II",MA,2324,1982-08-25,42,Female,Married,"US Citizen",White,No
+10073," Karen",Mancuso,"Production Technician II",MA,2176,1992-12-10,32,Female,Married,"US Citizen","Two or more races",No
+10279," Debbie",Mangal,"Production Technician I",MA,2451,1980-11-07,44,Female,Married,"US Citizen",White,No
+10110," Sandra",Martin,"Software Engineer",MA,2135,1993-11-07,31,Female,Single,"US Citizen",Asian,No
+10053," Shana",Maurice,"Production Technician I",MA,2330,1983-11-22,41,Female,Married,"US Citizen",White,No
+10076," B'rigit",Carthy,"Production Technician II",MA,2149,1993-05-21,31,Female,Single,"US Citizen","Black or African American",No
+10145," Sandy",Mckenna,"Production Technician I",MA,2184,1993-01-07,31,Female,Married,"US Citizen","Black or African American",No
+10202," Jac",McKinzie,"Area Sales Manager",TX,78789,1990-07-01,34,Male,Married,"US Citizen","Two or more races",No
+10128," Elizabeth",Meads,"Production Technician I",MA,1760,1974-05-30,50,Female,Single,"US Citizen","Black or African American",No
+10068," Jennifer",Medeiros,"Production Technician I",MA,2346,1982-09-22,42,Female,Single,"US Citizen",White,No
+10116," Brannon",Miller,"Production Manager",MA,2045,1987-08-10,37,Male,Single,"US Citizen",Hispanic,yes
+10298," Ned",Miller,"Production Technician II",MA,2472,1991-06-29,33,Male,Single,"US Citizen",White,No
+10213," Erasumus",Monkfish,"Production Technician II",MA,1450,1998-08-17,26,Male,Married,"US Citizen",White,No
+10288," Peter",Monroe,"IT Manager - Infra",MA,2134,1992-10-05,32,Male,Married,"Eligible NonCitizen","Black or African American",Yes
+10025," Luisa",Monterro,"Production Technician II",MA,2126,1976-04-24,48,Female,Single,"US Citizen","Black or African American",No
+10223," Patrick",Moran,"Production Technician II",MA,2127,1982-12-03,42,Male,Single,"US Citizen","Black or African American",No
+10151," Tanya",Morway,"Network Engineer",MA,2048,1985-04-04,39,Female,Married,"US Citizen",White,No
+10254,"  Dawn",Motlagh,"Production Technician I",MA,2453,1990-07-07,34,Female,Divorced,"US Citizen",White,No
+10120," Maliki ",Moumanil,"Production Technician II",MA,1460,1980-12-01,44,Male,Separated,"US Citizen","Black or African American",No
+10216," Michael",Myers,"Production Technician I",MA,1550,1986-04-18,38,Male,Single,"US Citizen",Asian,No
+10079," Kurt",Navathe,"Senior BI Developer",MA,2056,1976-04-25,48,Male,Single,"US Citizen",Asian,No
+10215," Colombui",Ndzi,"Production Technician I",MA,2110,1995-05-02,29,Male,Single,"US Citizen","Black or African American",No
+10185," Horia",Ndzi,"Production Technician I",MA,2421,1989-03-28,35,Male,Married,"US Citizen",White,No
+10063," Richard ",Newman,"Production Technician I",MA,2136,1983-04-08,41,Male,Married,"US Citizen",White,No
+10037," Shari ",Ngodup,"Production Technician I",MA,1810,1973-06-03,51,Female,Separated,"US Citizen","Black or African American",No
+10042," Dheepa",Nguyen,"Area Sales Manager",GA,30428,1995-03-31,29,Female,Single,"US Citizen","Two or more races",No
+10206," Lei-Ming",Nguyen,"Production Technician I",MA,2132,1990-07-07,34,Female,Single,"US Citizen",White,No
+10104," Kristie",Nowlan,"Production Technician II",MA,1040,1991-11-23,33,Female,Single,"US Citizen",White,No
+10303," Lynn",O'hare,"Production Technician I",MA,2152,1986-09-30,38,Female,Single,"US Citizen","Two or more races",No
+10078," Brooke ",Oliver,"Production Technician II",MA,2492,1958-02-11,66,Female,Married,"US Citizen",Asian,No
+10121," Jasmine",Onque,"Area Sales Manager",FL,33174,1996-05-11,28,Female,Single,"US Citizen",White,Yes
+10021," Adeel",Osturnka,"Production Technician I",MA,2478,1982-12-11,42,Male,Married,"US Citizen",White,No
+10281," Clinton",Owad,"Production Technician I",MA,1760,1985-11-24,39,Male,Single,"US Citizen","Black or African American",No
+10041," Travis",Ozark,"Area Sales Manager",NC,27229,1988-05-19,36,Male,Single,"US Citizen",White,No
+10148," Nina",Panjwani,"Production Technician I",MA,2351,1985-05-01,39,Female,Married,"US Citizen",White,No
+10005," Lucas",Patronick,"Software Engineer",MA,1844,1985-02-20,39,Male,Single,"US Citizen","Black or African American",No
+10259," Randall",Pearson,"Data Analyst",MA,2747,1990-09-05,34,Male,Married,"US Citizen",White,No
+10286," Martin",Smith,"Production Technician I",MA,2458,1994-03-17,30,Male,Single,"US Citizen","Black or African American",No
+10297," Ermine",Pelletier,"Production Technician II",MA,2472,1995-07-18,29,Female,Married,"US Citizen",Asian,No
+10171," Shakira",Perry,"Production Technician I",MA,2176,1992-07-20,32,Female,Single,"US Citizen",White,No
+10032," Lauren",Peters,"Production Technician II",MA,1886,1992-08-17,32,Female,Married,"US Citizen",White,No
+10130," Ebonee  ",Peterson,"Production Manager",MA,2030,1983-05-09,41,Female,Married,"US Citizen",White,No
+10217," Shana  ",Petingill,"Production Technician II",MA,2050,1985-03-10,39,Female,Married,"Eligible NonCitizen",Asian,No
+10016," Thelma",Petrowsky,"Data Analyst",MA,1886,1990-09-16,34,Female,Married,"US Citizen","Black or African American",No
+10050," Hong",Pham,"Production Technician I",MA,2451,1994-03-06,30,Male,Married,"US Citizen",Asian,No
+10164," Brad ",Pitt,"Production Technician I",MA,2451,1987-11-23,37,Male,Single,"US Citizen",White,No
+10124," Xana",Potts,"Area Sales Manager",KY,40220,1994-08-29,30,Female,Married,"US Citizen","Black or African American",No
+10187," Morissa",Power,"Production Technician I",MA,1742,1990-10-15,34,Female,Divorced,"Eligible NonCitizen",Asian,No
+10225," Louis  ",Punjabhi,"Production Technician I",MA,2109,1967-06-19,57,Male,Single,"US Citizen",White,No
+10262," Janine",Purinton,"Production Technician I",MA,2474,1976-09-22,48,Female,Divorced,"US Citizen",White,No
+10131," Sean",Quinn,"Software Engineer",MA,2045,1990-11-06,34,Male,Married,"Eligible NonCitizen","Black or African American",No
+10239," Maggie",Rachael,"BI Developer",MA,2110,1986-05-12,38,Female,Married,"US Citizen","Black or African American",No
+10152," Quinn",Rarrick,"Production Technician I",MA,2478,1990-12-31,34,Male,Divorced,"US Citizen",White,No
+10140," Kylo",Ren,"Area Sales Manager",ID,83706,1960-10-12,64,Male,Married,"US Citizen",White,No
+10058," Thomas",Rhoads,"Production Technician I",MA,2176,1988-07-22,36,Male,Divorced,"US Citizen",White,Yes
+10011," Haley  ",Rivera,"Production Technician I",MA,2171,1979-01-12,45,Female,Married,"US Citizen",Asian,No
+10230," May",Roberson,"Production Technician II",MA,1902,1987-09-05,37,Female,Divorced,"Eligible NonCitizen","Black or African American",No
+10224," Peter",Robertson,"Production Technician II",MA,2138,1978-07-03,46,Male,Married,"US Citizen",White,No
+10047," Alain  ",Robinson,"Production Technician I",MA,1420,1980-01-07,44,Male,Married,"US Citizen","Black or African American",No
+10285," Cherly",Robinson,"Production Technician I",MA,1460,1991-01-07,33,Female,Married,"US Citizen",White,No
+10020," Elias",Robinson,"Production Technician I",MA,1730,1991-01-28,33,Male,Widowed,"US Citizen",White,No
+10162," Lori ",Roby,"Data Analyst",MA,1886,1987-10-11,37,Female,Married,"US Citizen",White,No
+10149," Bianca",Roehrich,"Principal Data Architect",MA,2703,1979-05-27,45,Female,Single,"US Citizen",White,Yes
+10086," Katie",Roper,"Data Architect",MA,2056,1978-11-21,46,Female,Single,"US Citizen","Black or African American",No
+10054," Ashley  ",Rose,"Production Technician I",MA,1886,1980-12-05,44,Female,Separated,"US Citizen",White,No
+10065," Bruno",Rossetti,"Production Technician I",MA,2155,1993-03-18,31,Male,Single,"US Citizen",White,No
+10198,Simon,Roup,"IT Manager - DB",MA,2481,1979-04-05,45,Male,Single,"US Citizen",White,No
+10222," Ricardo",Ruiz,"IT Manager - DB",MA,1915,1970-01-04,54,Male,Divorced,"US Citizen","Black or African American",No
+10126," Adell",Saada,"Software Engineer",MA,2132,1992-07-24,32,Female,Married,"US Citizen",White,No
+10295," Melinda",Saar-Beckles,"Production Technician I",MA,1801,1974-06-06,50,Female,Single,"US Citizen","Black or African American",No
+10260," Nore  ",Sadki,"Production Technician I",MA,2148,1980-12-21,44,Male,Single,"US Citizen",White,No
+10233," Adil",Sahoo,"Production Technician II",MA,2062,1992-04-26,32,Male,Married,"US Citizen",White,No
+10229," Jason",Salter,"Data Analyst ",MA,2452,1993-12-17,31,Male,Divorced,"US Citizen","Black or African American",No
+10169," Kamrin",Sander,"Production Technician I",MA,2154,1994-07-10,30,Female,Married,"US Citizen","Black or African American",No
+10071," Nori",Sewkumar,"Production Technician I",MA,2191,1981-03-10,43,Female,Single,"US Citizen",Asian,No
+10179," Anita ",Shepard,"Network Engineer",MA,1773,1987-04-14,37,Female,Married,"US Citizen",White,No
+10091," Seffi",Shields,"Production Technician I",MA,2149,1991-08-24,33,Female,Married,"US Citizen",White,No
+10178," Kramer",Simard,"Data Analyst",MA,2110,1976-02-08,48,Male,Married,"US Citizen",White,Yes
+10039," Nan ",Singh,"Administrative Assistant",MA,2330,1994-05-19,30,Female,Single,"US Citizen",White,No
+10095," Constance",Sloan,"Production Technician II",MA,1851,1993-11-25,31,Female,Single,"US Citizen",White,No
+10027," Joe",Smith,"Production Technician II",MA,2045,1969-10-30,55,Male,Single,"US Citizen",White,No
+10291," John",Smith,"Sales Manager",MA,1886,1990-08-16,34,Male,Divorced,"US Citizen","Black or African American",No
+10153," Leigh Ann",Smith,"Administrative Assistant",MA,1844,1993-06-14,31,Female,Married,"US Citizen","Black or African American",No
+10157," Sade",Smith,"Production Technician I",MA,2130,1971-02-02,53,Female,Single,"US Citizen",White,No
+10119," Julia ",Soto,"IT Support",MA,2360,1979-03-12,45,Female,Married,"US Citizen","Black or African American",No
+10180," Keyser",Soze,"Sr. Network Engineer",MA,1545,1989-02-09,35,Male,Married,"US Citizen",Asian,No
+10302," Taylor  ",Sparks,"Production Technician I",MA,2093,1974-07-20,50,Female,Married,"US Citizen",White,No
+10090," Kelley",Spirea,"Production Manager",MA,2451,1981-09-30,43,Female,Married,"US Citizen",White,No
+10030," Kristen",Squatrito,"Production Technician I",MA,2359,1979-03-26,45,Female,Divorced,"US Citizen",White,No
+10278,"Barbara  M",Stanford,"Production Technician I",MA,2050,1988-08-25,36,Female,Divorced,"US Citizen","Two or more races",No
+10307," Norman",Stansfield,"Area Sales Manager",NV,89139,1980-05-09,44,Male,Married,"US Citizen",White,No
+10147," Tyrone  ",Steans,"Accountant I",MA,2703,1992-09-01,32,Male,Single,"US Citizen",White,No
+10266," Rick",Stoica,"Production Technician I",MA,2301,1991-03-14,33,Male,Married,"US Citizen",Asian,No
+10241," Caitrin",Strong,"Area Sales Manager",MT,59102,1995-05-12,29,Female,Married,"US Citizen","Black or African American",No
+10158," Kissy ",Sullivan,"Production Manager",MA,1776,1984-03-28,40,Female,Married,"US Citizen","Black or African American",No
+10117," Timothy",Sullivan,"Production Technician I",MA,2747,1988-10-07,36,Male,Married,"US Citizen",White,Yes
+10209," Barbara",Sutwell,"Production Technician I",MA,2718,1974-08-15,50,Female,Single,"Eligible NonCitizen",Asian,No
+10024," Andrew",Szabo,"Software Engineer",MA,2140,1989-05-06,35,Male,Single,"US Citizen",White,No
+10173," Biff",Tannen,"BI Developer",MA,2134,1993-10-24,31,Male,Married,"US Citizen",White,No
+10221," Desiree  ",Tavares,"Production Technician I",MA,1801,1981-04-03,43,Female,Married,Non-Citizen,"Black or African American",No
+10146," Lenora ",Tejeda,"Production Technician II",MA,2129,1959-05-24,65,Female,Married,"US Citizen",White,No
+10161," Sharlene ",Terry,"Area Sales Manager",OR,97756,1971-05-07,53,Female,Single,"US Citizen","Black or African American",No
+10141," Sophia",Theamstern,"Production Technician I",MA,2066,1971-05-09,53,Female,Single,"US Citizen",White,No
+10268," Kenneth",Thibaud,"Production Technician II",MA,2472,1981-09-16,43,Male,Widowed,"US Citizen",White,No
+10123," Jeanette",Tippett,"Production Technician I",MA,2093,1973-06-05,51,Female,Divorced,"US Citizen","Black or African American",No
+10013," Jack",Torrence,"Area Sales Manager",ND,58782,1974-01-15,50,Male,Separated,"US Citizen",White,No
+10287," Mei",Trang,"Production Technician I",MA,2021,1989-05-16,35,Female,Single,"US Citizen",White,No
+10044," Neville ",Tredinnick,"Network Engineer",MA,1420,1994-05-05,30,Male,Married,"US Citizen",White,No
+10102," Edward",True,"Software Engineer",MA,2451,1989-06-14,35,Male,Single,Non-Citizen,"Black or African American",No
+10270," Cybil",Trzeciak,"Production Technician II",MA,1778,1991-03-15,33,Female,Single,"US Citizen",White,No
+10045," Jumil",Turpin,"Network Engineer",MA,2343,1975-03-31,49,Male,Married,"Eligible NonCitizen",White,No
+10205,Jackie,Valentin,"Area Sales Manager",AZ,85006,1997-05-23,27,Female,Married,"US Citizen","Two or more races",No
+10014," Abdellah ",Veera,"Production Technician I",MA,2171,1993-01-31,31,Male,Divorced,"US Citizen",White,No
+10144," Vincent",Vega,"Production Manager",MA,2169,1974-10-10,50,Male,Divorced,"US Citizen",White,No
+10253," Noah",Villanueva,"Area Sales Manager",ME,4063,1995-07-11,29,Male,Single,"US Citizen",Asian,No
+10118," Lord",Voldemort,"Database Administrator",MA,1960,1992-08-07,32,Male,Married,"US Citizen","Black or African American",No
+10022," Colleen",Volk,"Production Technician I",MA,2747,1992-06-03,32,Female,Married,"US Citizen",White,No
+10183," Anna","Von Massenbach","Production Technician I",MA,2124,1991-04-06,33,Female,Single,"US Citizen",White,No
+10190," Roger",Walker,"Production Technician II",MA,2459,1982-02-10,42,Male,Single,"US Citizen","Black or African American",No
+10274," Courtney  E",Wallace,"Production Manager",MA,2478,1961-11-14,63,Female,Married,"US Citizen","Black or African American",No
+10293," Theresa",Wallace,"Production Technician I",MA,1887,1986-08-02,38,Female,Single,"US Citizen",White,No
+10172," Charlie",Wang,"Senior BI Developer",MA,1887,1987-07-08,37,Male,Single,"US Citizen",Asian,No
+10127," Sarah",Warfield,"Sr. Network Engineer",MA,2453,1984-05-02,40,Female,Widowed,"US Citizen",Asian,No
+10072," Scott",Whittier,"Production Technician I",MA,2030,1993-05-24,31,Male,Single,"US Citizen",White,Yes
+10048," Barry",Wilber,"Production Technician I",MA,2324,1971-09-09,53,Male,Married,"Eligible NonCitizen",White,No
+10204," Annie",Wilkes,"Production Technician I",MA,1876,1989-07-30,35,Female,Divorced,"US Citizen",White,No
+10264," Jacquelyn  ",Williams,"Production Technician I",MA,2109,1975-10-02,49,Female,Single,"US Citizen","Black or African American",Yes
+10033," Jordan  ",Winthrop,"Production Technician II",MA,2045,1964-11-07,60,Male,Single,"US Citizen",White,No
+10174," Hang  T",Wolk,"Production Technician II",MA,2302,1991-04-20,33,Female,Single,"US Citizen",White,No
+10135," Jason",Woodson,"Production Technician II",MA,1810,1991-05-11,33,Male,Single,"US Citizen",White,No
+10301," Catherine ",Ybarra,"Production Technician I",MA,2458,1988-05-04,36,Female,Single,"US Citizen",Asian,No
+10010," Jennifer",Zamora,CIO,MA,2067,1985-08-30,39,Female,Single,"US Citizen",White,No
+10043," Julia",Zhou,"Data Analyst",MA,2148,1985-02-24,39,Female,Single,"US Citizen",White,No
+10271," Colleen",Zima,"Production Technician I",MA,1730,1984-08-17,40,Female,Widowed,"US Citizen",Asian,No
